@@ -15,7 +15,9 @@ repo: "https://github.com/EdwardSoutherington/terminalattempt"
 # your gh-pages url: https://username.github.io
 url: https://EdwardSoutherington.github.io
 # your repository name: /repository
-baseurl: /Portfolio
+baseurl: /Portfolio2
+linkedin_username: edward-southerington
+github_username: EdwardSoutherington
 
 # analytics if desired (and use environment variable on build command)
 #google_analytics: UA-74844011-1        #
