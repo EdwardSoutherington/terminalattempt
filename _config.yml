@@ -15,7 +15,7 @@ repo: "https://github.com/EdwardSoutherington/terminalattempt"
 # your gh-pages url: https://username.github.io
 url: https://EdwardSoutherington.github.io
 # your repository name: /repository
-baseurl: /Portfolio2
+baseurl: /terminalattempt
 linkedin_username: edward-southerington
 github_username: EdwardSoutherington
 
